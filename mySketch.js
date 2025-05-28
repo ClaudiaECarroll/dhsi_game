@@ -23,7 +23,7 @@ function setup() {
 }
 
 function draw() {
-  background(255, 182, 193); // pink sky
+  background(255, 192, 203); // pink sky
 
   // Draw and move clouds
   drawClouds();
